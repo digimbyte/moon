@@ -1,0 +1,12 @@
+{
+  "timestamp": 12345,
+  "version": 5.2,
+  "zones": [
+    {
+      "name": "Test Name",
+      "desc": "This is a test that represents the final CDN approach, this is an example of what we can do",
+      "pin": [30, 80, 22],
+      "link": "test_name"
+    }
+  ]
+}
